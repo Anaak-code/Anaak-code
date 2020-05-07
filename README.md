@@ -1,2 +1,1 @@
 # Anaak-code
-my setup
